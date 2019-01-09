@@ -1,0 +1,7 @@
+C:\Users\ple63192\Documents\Visual Studio 2017\Projects\ForTraining\ForTraining\obj\Debug\ForTraining.csprojAssemblyReference.cache
+C:\Users\ple63192\Documents\Visual Studio 2017\Projects\ForTraining\ForTraining\obj\Debug\ForTraining.csproj.CoreCompileInputs.cache
+C:\Users\ple63192\Documents\Visual Studio 2017\Projects\ForTraining\ForTraining\bin\Debug\ForTraining.exe.config
+C:\Users\ple63192\Documents\Visual Studio 2017\Projects\ForTraining\ForTraining\bin\Debug\ForTraining.exe
+C:\Users\ple63192\Documents\Visual Studio 2017\Projects\ForTraining\ForTraining\bin\Debug\ForTraining.pdb
+C:\Users\ple63192\Documents\Visual Studio 2017\Projects\ForTraining\ForTraining\obj\Debug\ForTraining.exe
+C:\Users\ple63192\Documents\Visual Studio 2017\Projects\ForTraining\ForTraining\obj\Debug\ForTraining.pdb
